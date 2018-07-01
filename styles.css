@@ -1,0 +1,11 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.mainArea {
+    box-shadow: 0 0 10px;
+}
+
+.head {
+    background-color: green;
+}
